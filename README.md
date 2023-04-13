@@ -1,4 +1,4 @@
-#Detecting fissure on radiographic images
+# Detecting fissure on radiographic images
 Authors: Ivan Ryzhankow and Alina Yermakova (https://github.com/AlinaYermakova)
 
 University Python project, which represents an algorythm of automatically finding 
